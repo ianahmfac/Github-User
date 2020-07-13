@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ConsumerApp</string>
+
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="notFound">User not found</string>
+    <string name="addFavorite">Added to Favorite</string>
+    <string name="deleteFavorite">Removed from Favorite</string>
+
+    <string name="name">This Just Example Name</string>
+    <string name="username">Username</string>
+    <string name="company">Example Company</string>
+    <string name="location">Example Location</string>
+    <string name="dummy_value">1000</string>
+    <string name="arrow_right_to_details">Arrow Right to Details</string>
+    <string name="searching_for_someone">Searching for someone</string>
+
+</resources>

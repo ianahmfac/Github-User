@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github User</string>
+
+    <string name="repository">Repository</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="hint">Temukan Seseorang</string>
+    <string name="notFound">Pengguna tidak ditemukan</string>
+    <string name="addFavorite">Ditambahkan ke Favorit</string>
+    <string name="deleteFavorite">Dihapus dari Favorit</string>
+    <string name="userFavorite">Pengguna Favorit</string>
+    <string name="reminder">Pengingat pukul 09:00</string>
+
+    <string name="name">This Just Example Name</string>
+    <string name="username">Username</string>
+    <string name="company">Example Company</string>
+    <string name="location">Example Location</string>
+    <string name="dummy_value">1000</string>
+    <string name="setting">Setting</string>
+    <string name="arrow_right_to_details">Arrow Right to Details</string>
+    <string name="searching_for_someone">Searching for someone</string>
+    <string name="logo_github">Logo Github</string>
+    <string name="key_reminder">reminder</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="reminder_setup">Pengingat diatur pada pukul 09:00</string>
+    <string name="reminder_cancel">Pengingat dibatalkan</string>
+
+    <string name="reminder_title">Pengingat Harian</string>
+    <string name="reminder_text">Ayo cari orang-orang populer di Github!</string>
+
+    <string name="no_data">TIDAK ADA DATA</string>
+    <string name="darkMode">Atur ke Mode Gelap</string>
+</resources>

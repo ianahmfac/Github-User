@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Github User</string>
+
+    <string name="repository">Repository</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="hint">Find Someone</string>
+    <string name="notFound">User not found</string>
+    <string name="addFavorite">Added to Favorite</string>
+    <string name="deleteFavorite">Removed from Favorite</string>
+    <string name="userFavorite">Favorite Users</string>
+    <string name="reminder">Reminder at 9.00 AM</string>
+
+    <string name="name">This Just Example Name</string>
+    <string name="username">Username</string>
+    <string name="company">Example Company</string>
+    <string name="location">Example Location</string>
+    <string name="dummy_value">1000</string>
+    <string name="setting">Setting</string>
+    <string name="arrow_right_to_details">Arrow Right to Details</string>
+    <string name="searching_for_someone">Searching for someone</string>
+    <string name="logo_github">Github Logo</string>
+    <string name="key_reminder">reminder</string>
+    <string name="change_language">Change Language</string>
+    <string name="reminder_setup">Reminder has been set up at 9.00 AM</string>
+    <string name="reminder_cancel">Reminder has been canceled</string>
+
+    <string name="reminder_title">Daily Reminder</string>
+    <string name="reminder_text">Let\'s find popular user on Github!</string>
+    <string name="no_data">NO DATA</string>
+    <string name="this_is_widget_image">This is widget Image</string>
+    <string name="darkMode">Set to Dark Mode</string>
+    <string name="key_darkmode">darkMode</string>
+</resources>
